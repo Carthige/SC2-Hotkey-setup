@@ -14,6 +14,8 @@ Starcraft saves hotkey profiles in the following location:
 
 The following grid is used in this hotkey setup.
 
+|Grid Hotkeys|
+|---|---|---|---|---|
 | W | E | S | B | 1 |
 | A | Q | T | Y | K |
 | G | D | R | X | Z |
