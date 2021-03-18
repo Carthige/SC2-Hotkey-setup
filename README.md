@@ -14,7 +14,7 @@ Starcraft saves hotkey profiles in the following location:
 
 The following grid is used in this hotkey setup.
 
-| G| R | I | D | * |
+| *| * | * | * | * |
 |---|---|---|---|---|
 | W | E | S | B | 1 |
 | A | Q | T | Y | K |
@@ -28,16 +28,28 @@ This setup is using the following camera and control groups with the Core lite  
 
 
 Create=Shift+Alt+#
+
 Select=No modifier (Just #)
+
 Add=Ctrl+Alt+#
+
 Create-steal=Ctrl+Shift+#
+
 Add-steal=Ctrl+#
+
 Create location=Alt+#
+
 Jump to location=Shift+#
 
 
 Next this setup has the following minor tweeks.
+
+
 Sound toggle: Ctrl+,
+
 Music toggle: Ctrl+M
+
 Base camera: Spacebar
+
 Select all army: ~ (tilde key)
+
