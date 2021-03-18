@@ -36,6 +36,8 @@ This setup is using the following camera and control groups with the Core lite  
 * Jump to location=Shift+#
 
 
+
+
 Next this setup has the following minor tweeks.
 
 
