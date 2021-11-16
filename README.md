@@ -46,3 +46,7 @@ Next this setup has the following minor tweeks.
 * Base camera: Spacebar
 * Select all army: ~ (tilde key)
 
+
+# Grid Hotkey setup
+Uses the default grid hotkey setup of SC2 with a couple of changes. Group stealing is borrowed from the Core and the same minor tweaks have been implemented as discussed in the previous section. 
+
